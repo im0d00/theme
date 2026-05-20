@@ -1,0 +1,23 @@
+{
+  "theme_name": "Lizzdo Futuristic Theme",
+  "version": "1.0.0",
+  "description": "Premium 3D modeling, animation, and game development studio with a futuristic digital presence.",
+  "author": "Lizzdo Studio",
+  "author_uri": "https://lizzdo.com",
+  "text_domain": "lizzdo",
+  "domain_path": "/languages",
+  "requires_php": "7.4",
+  "requires_wp": "5.0",
+  "tested_up_to": "6.4",
+  "license": "GPL-2.0-or-later",
+  "license_uri": "http://www.gnu.org/licenses/gpl-2.0.html",
+  "tags": [
+    "3d",
+    "modeling",
+    "portfolio",
+    "game-development",
+    "futuristic",
+    "animation",
+    "studio"
+  ]
+}
